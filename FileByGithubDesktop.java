@@ -1,1 +1,1 @@
-echo "We are now creating a file on Github desktop"
+echo "We are now creating a file using Github desktop"
